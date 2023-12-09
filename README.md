@@ -1,2 +1,2 @@
 # munchinacrunchprototype
-Web application to help users find a place to dine
+Team members: Sabriya Sowers, Noah Brandwein, Dhana P., Mac Calhoun
